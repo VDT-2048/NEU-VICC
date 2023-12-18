@@ -29,5 +29,8 @@ The dataset and code are available at: https://pan.baidu.com/s/1nOETHkQuweLQDVVL
 # Paper
 https://www.sciencedirect.com/science/article/abs/pii/S092523122301233X
 
+[2024-A Visible-Infrared Clothes-Changing Dataset for Person Re-identification in Natural Scene.pdf](https://github.com/VDT-2048/NEU-VICC/files/13699218/2024-A.Visible-Infrared.Clothes-Changing.Dataset.for.Person.Re-identification.in.Natural.Scene.pdf)
+
+
 # Related Survey
 RGB-T Image Analysis Technology and Application: A Survey [J]. Engineering Applications of Artificial Intelligence, 2023, 120, 105919. https://www.sciencedirect.com/science/article/abs/pii/S0952197623001033
